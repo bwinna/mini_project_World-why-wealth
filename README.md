@@ -13,7 +13,7 @@
 7.What is the impact of immunization coverage on life expectancy, particularly regarding diseases like Hepatitis B, Polio, and Diphtheria?
 
 
-File difinition
+Data information
 
 Country:Country
 
