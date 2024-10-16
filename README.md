@@ -82,7 +82,9 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 - บางทวีปเช่น **Africa** และ **South America** มีเฉพาะประเทศที่กำลังพัฒนา ดังนั้นปัจจัยทางเศรษฐกิจก็อาจจะมีส่วนทำให้อายุขัยของประชากรเพิ่มขึ้น
 
 **กราฟ 4:** Life Expectancy in Developed and Developing Countries by Region
-![image](https://github.com/user-attachments/assets/2afc1a19-f98e-47d9-915b-6abb98d56c19)
+![image](https://github.com/user-attachments/assets/bcbd44b5-955d-4f75-8376-11187dba86d9)
+
 **กราฟ 5:** Life Expectancy in Developed and Developing Countries
-![image](https://github.com/user-attachments/assets/fcad2886-5dcf-4abc-9cb4-2f9fd11ac07f)
+![image](https://github.com/user-attachments/assets/25deb5bd-bfc7-4dbe-9cc7-8490c181967a)
+
 
