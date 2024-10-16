@@ -127,7 +127,8 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 ### 3.2 SARS
 การระบาดของโรคซาร์ส (Severe Acute Respiratory Syndrome) ในจีนเริ่มขึ้นในเดือนพฤศจิกายน 2002 ที่มณฑลกวางตุ้ง ก่อนที่จะแพร่ระบาดออกไปที่อื่น เมื่อพิจารณาจากอัตราการเพิ่มขึ้นของอายุขัยต่อปีของช่วงเวลาก่อนและหลัง พบว่าอัตราการเพิ่มขึ้นของอายุขัยต่อปีลดลงจาก 0.695% เหลือ 0.352% 
 **กราฟ 12 :** China's Life Expectancy and SARS
-![image](https://github.com/user-attachments/assets/fd2e399f-6e45-41a4-b9ee-49c094452ad8)
+![image](https://github.com/user-attachments/assets/39dd580d-6190-4238-b54f-b31cc586fc7b)
+
 
 ### 3.3 Afghanistan Wars (2001–2014)
 หลังเหตุการณ์ 9/11 สหรัฐอเมริกา ได้ทำปฏิบัติการ “Operation Enduring Freedom” ในเดือนตุลาคม 2001 เพื่อโค่นล้มรัฐบาล Taliban โดยหลังการบุกครั้งแรก กลุ่ม Taliban ได้เริ่มทำสงครามกองโจรต่อสู้กับกองทัพสหรัฐฯ และหลังจากการเสียชีวิตของ บิน ลาเดนในปี 2011 สหรัฐฯ เริ่มถอนกำลังทหารออกไป
