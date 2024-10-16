@@ -176,8 +176,10 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 
 
 **กราฟ 17 :** โครงสร้างประชากร
-![image](https://github.com/user-attachments/assets/78565a6b-550e-44b5-8c2f-7d75b4d0b566)
-![image](https://github.com/user-attachments/assets/37410e84-4015-4db4-9e09-e5f675d99594)
+![image](https://github.com/user-attachments/assets/2520a042-4299-4492-a206-58cd68391b11)
+
+![image](https://github.com/user-attachments/assets/2a4de23e-9502-462d-9610-1bca54b9008b)
+
 
 ### 6.3 งบประมาณ
 จากข้อมูลงบประมาณย้อนหลังจาก สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน) (สพร.) พบว่างบของกระทรวงสาธารณสุข มีแนวโน้มเพิ่มขึ้นทุกปี โดยงบประมาณคิดเป็น 4.2 - 5.3 % เมื่อเทียบกับงบประมาณโดยรวม ยกเว้นปี 2018 เท่ากับ 8.8%
