@@ -21,7 +21,7 @@ https://govspending.data.go.th
 9. GDP (CVM)
 https://www.nesdc.go.th/main.php?filename=qgdp_page
 
-- [Data diffinition](diffinition.md)
+- [Data difinition](diffinition.md)
   
 ## Question 
 1. ประมาณการอายุขัย (life expectancy) ของประชากรโลกเป็นอย่างไร
