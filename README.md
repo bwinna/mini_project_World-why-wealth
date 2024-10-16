@@ -46,6 +46,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 
 
 **กราฟ 1:** Life Expectancy Trendline of All Countries
+
 ![image](https://github.com/user-attachments/assets/4875115b-07f4-4c20-a96c-9117ad708a3b)
 
 ### 1.2 ประมาณการอายุขัยของแต่ละทวีป
@@ -127,6 +128,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 ### 3.2 SARS
 การระบาดของโรคซาร์ส (Severe Acute Respiratory Syndrome) ในจีนเริ่มขึ้นในเดือนพฤศจิกายน 2002 ที่มณฑลกวางตุ้ง ก่อนที่จะแพร่ระบาดออกไปที่อื่น เมื่อพิจารณาจากอัตราการเพิ่มขึ้นของอายุขัยต่อปีของช่วงเวลาก่อนและหลัง พบว่าอัตราการเพิ่มขึ้นของอายุขัยต่อปีลดลงจาก 0.695% เหลือ 0.352% 
 **กราฟ 12 :** China's Life Expectancy and SARS
+
 ![image](https://github.com/user-attachments/assets/39dd580d-6190-4238-b54f-b31cc586fc7b)
 
 
