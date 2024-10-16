@@ -68,6 +68,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 - **Africa** มีการเกาะกลุ่มกันแต่อายุขัยเฉลี่ยต่ำกว่าทวีปอื่นๆ
 
 **กราฟ 3:** Top 5 Countries with the Highest Life Expectancy by Region
+![image](https://github.com/user-attachments/assets/e32be9c3-c5d3-4062-9b5d-a438e0805431)
 
 
 
