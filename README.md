@@ -85,6 +85,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 ![image](https://github.com/user-attachments/assets/bcbd44b5-955d-4f75-8376-11187dba86d9)
 
 **กราฟ 5:** Life Expectancy in Developed and Developing Countries
-![image](https://github.com/user-attachments/assets/25deb5bd-bfc7-4dbe-9cc7-8490c181967a)
+![image](https://github.com/user-attachments/assets/521d481f-c548-4b95-84f4-6be98dacc6fa)
+
 
 
