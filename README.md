@@ -106,18 +106,13 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 ![image](https://github.com/user-attachments/assets/3560b13c-d48a-49d7-b70c-4b6d069e0c19)
 
 
-### 2.2 ลักษณะของแต่ละกลุ่มแยกตาม Factor
-จากกราฟที่ 8 ได้ทำการเปรียบเทียบแต่ละ Factor ของ 4 กลุ่มได้แก่ 10 ประเทศที่อายุขัยมากที่สุด 10 ประเทศที่อายุขัยต่ำที่สุด ค่าอายุขัยเฉลี่ยทุกประเทศ และประเทศไทย พบว่า…
-
-**กราฟ 8 :** Comparing Top, Bottom, Average All Countries and Thailand by Factors
-
-### 2.3 ปัจจัยที่ส่งผลต่อประมาณการอายุขัยเฉลี่ย
+### 2.2 ปัจจัยที่ส่งผลต่อประมาณการอายุขัยเฉลี่ย
 ปัจจัยที่สัมพันธ์กับอายุขัยมากที่สุด คือ ระยะเวลาการศึกษา (Schooling) ปัจจัยด้านสุขภาพได้แก่การครอบคลุมการได้รับวัคซีนป้องกันโรค เช่น Polio หรือ Diphtheria tetanus toxoid เป็น และปัจจัยทางเศรษฐกิจ (GDP) ในขณะที่อัตราการตายตั้งแต่ช่วงทารก การตายในเด็กไม่เกิน 5 ขวบ และการตายในวัยผู้ใหญ่มีผลทำให้อายุขัยลดลง นอกจากนี้พบว่า จำนวนประชากร ไม่ได้สัมพันธ์กันกับอายุขัย
 
-**กราฟ 9 :** Correlation Between Factors and Life Expectancy
+**กราฟ 8 :** Correlation Between Factors and Life Expectancy
 ![image](https://github.com/user-attachments/assets/39562adf-18df-4f3e-9e7e-47c66da57361)
 
-**กราฟ 10 :** Correlation Matrix (Life Expectancy)
+**กราฟ 9 :** Correlation Matrix (Life Expectancy)
 ![image](https://github.com/user-attachments/assets/77cf4f74-b571-4f09-8d5f-6aa72c7e1e8e)
 
 
@@ -125,13 +120,13 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 ### 3.1 Subprime crisis
 ใน USA เกิดวิกฤตเหตุการณ์ทางการเงิน Subprime crisis ปี 2008 แต่เมื่อพิจารณาจากอัตราการเพิ่มขึ้นของอายุขัยต่อปีของช่วงเวลาก่อนและหลัง พบว่าอัตราการเพิ่มขึ้นของอายุขัยต่อปีลดลงจาก 0.24% เหลือ 0.19% 
 
-**กราฟ 11 :** USA's Life Expectancy and the Subprime Crisis
+**กราฟ 10 :** USA's Life Expectancy and the Subprime Crisis
 ![image](https://github.com/user-attachments/assets/17090738-54b9-4ea6-ad83-675da3027d73)
 
 ### 3.2 SARS
 การระบาดของโรคซาร์ส (Severe Acute Respiratory Syndrome) ในจีนเริ่มขึ้นในเดือนพฤศจิกายน 2002 ที่มณฑลกวางตุ้ง ก่อนที่จะแพร่ระบาดออกไปที่อื่น เมื่อพิจารณาจากอัตราการเพิ่มขึ้นของอายุขัยต่อปีของช่วงเวลาก่อนและหลัง พบว่าอัตราการเพิ่มขึ้นของอายุขัยต่อปีลดลงจาก 0.695% เหลือ 0.352% 
 
-**กราฟ 12 :** China's Life Expectancy and SARS
+**กราฟ 11 :** China's Life Expectancy and SARS
 
 ![image](https://github.com/user-attachments/assets/39dd580d-6190-4238-b54f-b31cc586fc7b)
 
@@ -139,7 +134,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 ### 3.3 Afghanistan Wars (2001–2014)
 หลังเหตุการณ์ 9/11 สหรัฐอเมริกา ได้ทำปฏิบัติการ “Operation Enduring Freedom” ในเดือนตุลาคม 2001 เพื่อโค่นล้มรัฐบาล Taliban โดยหลังการบุกครั้งแรก กลุ่ม Taliban ได้เริ่มทำสงครามกองโจรต่อสู้กับกองทัพสหรัฐฯ และหลังจากการเสียชีวิตของ บิน ลาเดนในปี 2011 สหรัฐฯ เริ่มถอนกำลังทหารออกไป เมื่อพิจารณาจากอัตราการเพิ่มขึ้นของอายุขัยต่อปีของช่วงเวลาสงคราม พบว่าอัตราการเพิ่มขึ้นของอายุขัยต่อปียังคงเพิ่มขึ้นเฉลี่ย 0.638%
 
-**กราฟ 13 :** Afghanistan's Life Expectancy and Wars (2001–2014)
+**กราฟ 12 :** Afghanistan's Life Expectancy and Wars (2001–2014)
 ![image](https://github.com/user-attachments/assets/89733fca-f091-49c3-b472-0901d26862b1)
 
 
@@ -147,17 +142,17 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 จากการศึกษาความสัมพันธ์ (correlation) ของข้อมูลของ The World Happiness Report ในปี 2008 - 2023 พบว่า ปัจจัยที่สัมพันธ์กับความสุขมากที่สุด คือ ปัจจัยทางเศรษฐกิจ (GDP) อายุขัยเฉลี่ย (Life Expectancy) และการสนับสนุนทางสังคม (Social Support) ในขณะที่ค่าเฉลี่ยของการวัดผลอารมณ์ด้านลบ (Negative affect) และการรับรู้การคอร์รัปชัน (Corruption Perception) มีผลทำให้ความสุขลดลง ดังนั้นการลดปัจจัยเหล่านี้จะช่วยเพิ่มความสุขโดยรวมในสังคมได้ 
 นอกจากนี้พบว่า การเอื้ออาทร ( Generosity ) ที่วัดจากการบริจาค ไม่ได้สัมพันธ์กับความสุขมากนัก
 
-**กราฟ 14 :**  Correlation Between Factors and Happiness
+**กราฟ 13 :**  Correlation Between Factors and Happiness
 
 ![image](https://github.com/user-attachments/assets/ed4e649a-8001-4db3-b6fc-81ae2aa61348)
 
-**กราฟ 15 :**  Correlation Between Factors with Life Expectancy and Happiness
+**กราฟ 14 :**  Correlation Between Factors with Life Expectancy and Happiness
 ![image](https://github.com/user-attachments/assets/cb28c21f-f37e-4eab-a20e-cfe4a0b9a3d7)
 
 ## Question 5 : ประมาณการอายุขัยและความสุข มีความสัมพันธ์กันอย่างไร
 จากกราฟพบว่า Life Expectancy กับ Happiness มีความสัมพันธ์ไปในทิศทางเดียวกัน กล่าวคือยิ่งอายุขัยมากจะยิ่งมีความสุขนั่นเอง
 
-**กราฟ 16 :**  Life Expectancy and Happiness
+**กราฟ 15 :**  Life Expectancy and Happiness
 
 ![image](https://github.com/user-attachments/assets/1fd75012-f52d-4d43-9c8e-06149cc8ef42)
 
@@ -168,7 +163,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 โดยในปี 2012 จำนวนการเกิดทั้งเพศชายและหญิงมีแนวโน้มลดลงอยากเห็นชัดเมื่อเทียบกับช่วงเวลาก่อนหน้า  และสำหรับการตายที่ค่อยๆเพิ่มขึ้นได้ขยับสูงขึ้นอย่างชัดเจนในช่วงปี 2020 - 2022 ซึ่งเป็นช่วงเวลาเดียวกันกับเหตุการณ์ covid-19 
 โดยในช่วงปี 2021 ประเทศไทยมีการตายมากกว่าการเกิดเป็นครั้งแรก จะทำให้จำนวนประชากรไทยเริ่มลดลงเรื่อย ๆ โดยเฉพาะเพศชายที่จำนวนการตายเฉลี่ยมากกว่าเพศหญิง ส่งผลกระทบทำให้ประชากรลดลง การเปลี่ยนแปลงในโครงสร้างประชากรและการเปลี่ยนแปลงทางสังคม
 
-**กราฟ 17 :** เปรียบเทียบจำนวนการเกิดและการตายของประชากรไทย
+**กราฟ 16 :** เปรียบเทียบจำนวนการเกิดและการตายของประชากรไทย
 ![image](https://github.com/user-attachments/assets/269b4e8e-ef51-4682-8348-6c4d3ab16a52)
 
 ### 6.2 โครงสร้างประชากร
@@ -179,18 +174,18 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 - ประชากรวัยเกษียณ (60 ปีขึ้นไป) เพิ่มขึ้นอย่าง 2.26 เท่า จากเดิม 5.43 ล้านคนในปี 2002 เป็น 12.30 ล้านคน ในปี 2023 (คิดเป็น 18.62 % ของประชากรรวมในปี 2023) 
 
 
-**กราฟ 18 :** โครงสร้างประชากร
+**กราฟ 17 :** โครงสร้างประชากร
 ![image](https://github.com/user-attachments/assets/78565a6b-550e-44b5-8c2f-7d75b4d0b566)
 ![image](https://github.com/user-attachments/assets/37410e84-4015-4db4-9e09-e5f675d99594)
 
 ### 6.3 งบประมาณ
 จากข้อมูลงบประมาณย้อนหลังจาก สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน) (สพร.) พบว่างบของกระทรวงสาธารณสุข มีแนวโน้มเพิ่มขึ้นทุกปี โดยงบประมาณคิดเป็น 4.2 - 5.3 % เมื่อเทียบกับงบประมาณโดยรวม ยกเว้นปี 2018 เท่ากับ 8.8%
 
-**กราฟ 19 :** งบประมาณเปรียบเทียบ
+**กราฟ 18 :** งบประมาณเปรียบเทียบ
 ![image](https://github.com/user-attachments/assets/15ea9ae0-4615-4939-9cb7-fb6026a923ef)
 
 
-**กราฟ 20 :** งบประมาณกับ GDP
+**กราฟ 19 :** งบประมาณกับ GDP
 
 ## 6.4 บทสรุป
 ดังนั้น จะส่งผลกระทบต่อธุรกิจที่ขึ้นอยู่กับจำนวนประชากร เช่น โรงเรียน หรือธุรกิจที่มีลักษณะใช้แรงงาน จะขาดแคลนแรงงาน ตลอดจนการลงทุนของโครงสร้างพื้นฐานเพื่อการใช้งานสำหรับคนจำนวนมาก ๆ จะเสียเปล่า การเลื่อนอายุเกษียณเพื่อชะลอการขาดแคลนแรงงาน ตลอดจนการเตรียมความพร้อมในการดูแลตนเองหรือช่วยดูแลในยามสูงอายุผ่านการออมเงิน
