@@ -104,6 +104,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 ขณะที่อายุขัยเฉลี่ยของประชากรทั้งโลกเท่ากับ 70.9 ปี และประเทศไทยออยู่อันดับที่ 76 อายุขัยเฉลี่ยประมาณ 75.36 ปี 
 
 **กราฟที่ 7 :** Average Life Expectation by Countries (2011-2015)
+![image](https://github.com/user-attachments/assets/3560b13c-d48a-49d7-b70c-4b6d069e0c19)
 
 
 ### 2.2 ลักษณะของแต่ละกลุ่มแยกตาม Factor
