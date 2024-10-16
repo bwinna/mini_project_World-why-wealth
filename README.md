@@ -5,24 +5,33 @@
 
 
 ## Dataset
-Life Expectancy (2000 - 2015)
+1. Life Expectancy (2000 - 2015)
 https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated
-World Happiness Report (2008 - 2023)
+
+3. World Happiness Report (2008 - 2023)
 https://worldhappiness.report/
-จำนวนการเกิด จำนวนการตาย จำนวนประชากรของประเทศไทย (2002 - 2023)
+
+5. จำนวนการเกิด จำนวนการตาย จำนวนประชากรของประเทศไทย (2002 - 2023)
 https://stat.bora.dopa.go.th/stat/statnew/statMenu/newStat/home.php
-งบประมาณของประเทศไทย (2016 - 2022)
+
+7. งบประมาณของประเทศไทย (2016 - 2022)
 https://govspending.data.go.th
-GDP (CVM)
+
+9. GDP (CVM)
 https://www.nesdc.go.th/main.php?filename=qgdp_page
 
 
 ## Question 
 ประมาณการอายุขัย (life expectancy) ของประชากรโลกเป็นอย่างไร
+
 ปัจจัยอะไรบ้างที่ส่งผลต่อประมาณการอายุขัยเฉลี่ย และส่งผลอย่างไร
+
 มีเหตุการณ์ใดบ้างที่อาจส่งผลต่อประมาณการอายุขัย
+
 ปัจจัยอะไรบ้างที่ส่งผลต่อความสุข (Happiness)
+
 ประมาณการอายุขัยและความสุข มีความสัมพันธ์กันหรือไม่ อย่างไร
+
 นำข้อมูลมาใช้ประโยชน์กับประเทศไทยได้อย่างไรบ้าง
 
 
