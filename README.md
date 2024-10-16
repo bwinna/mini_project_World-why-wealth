@@ -35,7 +35,6 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 นำข้อมูลมาใช้ประโยชน์กับประเทศไทยได้อย่างไรบ้าง
 
 
-# Part 1
 
 ## Question 1: ประมาณการอายุขัยเฉลี่ย (Life Expectancy) ในปี 2000 - 2015 เป็นอย่างไร
 
