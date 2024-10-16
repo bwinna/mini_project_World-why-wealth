@@ -46,7 +46,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 
 
 **กราฟ 1:** Life Expectancy Trendline of All Countries
-
+![image](https://github.com/user-attachments/assets/4875115b-07f4-4c20-a96c-9117ad708a3b)
 
 ### 1.2 ประมาณการอายุขัยของแต่ละทวีป
 
@@ -57,7 +57,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 
 
 **กราฟ 2:** Life Expectancy Trendline by Region
-![image](https://github.com/user-attachments/assets/4875115b-07f4-4c20-a96c-9117ad708a3b)
+![image](https://github.com/user-attachments/assets/062c98eb-5f6c-473b-898b-02e0a2def86c)
 
 เมื่อพิจารณา **กราฟที่ 3** แสดงอายุขัยที่สูงที่สุด 5 อันดับในแต่ละทวีป จะเห็นได้ว่าทุกทวีปจะมีแนวโน้มที่อายุขัยเพิ่มขึ้น แต่ก็มีการกระจายที่แตกต่างกันออกไป เช่น:
 
@@ -68,7 +68,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 - **Africa** มีการเกาะกลุ่มกันแต่อายุขัยเฉลี่ยต่ำกว่าทวีปอื่นๆ
 
 **กราฟ 3:** Top 5 Countries with the Highest Life Expectancy by Region
-![image](https://github.com/user-attachments/assets/062c98eb-5f6c-473b-898b-02e0a2def86c)
+
 
 
 
