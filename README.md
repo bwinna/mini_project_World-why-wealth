@@ -144,6 +144,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 จากการศึกษาความสัมพันธ์ (correlation) ของข้อมูลของ The World Happiness Report ในปี 2008 - 2023 พบว่า ปัจจัยที่สัมพันธ์กับความสุขมากที่สุด คือ ปัจจัยทางเศรษฐกิจ (GDP) อายุขัยเฉลี่ย (Life Expectancy) และการสนับสนุนทางสังคม (Social Support) ในขณะที่ค่าเฉลี่ยของการวัดผลอารมณ์ด้านลบ (Negative affect) และการรับรู้การคอร์รัปชัน (Corruption Perception) มีผลทำให้ความสุขลดลง ดังนั้นการลดปัจจัยเหล่านี้จะช่วยเพิ่มความสุขโดยรวมในสังคมได้ 
 นอกจากนี้พบว่า การเอื้ออาทร ( Generosity ) ที่วัดจากการบริจาค ไม่ได้สัมพันธ์กับความสุขมากนัก
 **กราฟ 14 :**  Correlation Between Factors and Happiness
+
 ![image](https://github.com/user-attachments/assets/ed4e649a-8001-4db3-b6fc-81ae2aa61348)
 
 **กราฟ 15 :**  Correlation Between Factors with Life Expectancy and Happiness
@@ -152,6 +153,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 ## Question 5 : ประมาณการอายุขัยและความสุข มีความสัมพันธ์กันอย่างไร
 จากกราฟพบว่า Life Expectancy กับ Happiness มีความสัมพันธ์ไปในทิศทางเดียวกัน กล่าวคือยิ่งอายุขัยมากจะยิ่งมีความสุขนั่นเอง
 **กราฟ 16 :**  Life Expectancy and Happiness
+
 ![image](https://github.com/user-attachments/assets/1fd75012-f52d-4d43-9c8e-06149cc8ef42)
 
 
