@@ -199,7 +199,8 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 -	งบของกระทรวงสาธารณสุข จะค่อนข้างคงที่ คือโดยประมาณ 3 แสนล้านบาทแต่ในปี 2021 เพิ่มเป็น 3.43 แสนล้านบาท
 
 **กราฟ 18 :** งบประมาณเปรียบเทียบ
-![image](https://github.com/user-attachments/assets/5e8c17a9-d1ea-4230-a339-c565c3f12418)
+![image](https://github.com/user-attachments/assets/42ba5ae3-45ca-4f1e-9b8c-f6db112648da)
+
 
 
 **กราฟ 19 :** งบประมาณกับ GDP
