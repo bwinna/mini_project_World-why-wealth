@@ -202,7 +202,8 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 ![image](https://github.com/user-attachments/assets/5e8c17a9-d1ea-4230-a339-c565c3f12418)
 
 **กราฟ 19 :** งบประมาณกับ GDP
-![image](https://github.com/user-attachments/assets/4ceb8e41-27cb-4e5e-b4e4-d1cdf94aa754)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/513ecc6e-33ab-4344-85f8-28f33353eba0">
+
 
 ## 6.4 บทสรุป
 ดังนั้น จะส่งผลกระทบต่อธุรกิจที่ขึ้นอยู่กับจำนวนประชากร เช่น โรงเรียน หรือธุรกิจที่มีลักษณะใช้แรงงาน จะขาดแคลนแรงงาน ตลอดจนการลงทุนของโครงสร้างพื้นฐานเพื่อการใช้งานสำหรับคนจำนวนมาก ๆ จะเสียเปล่า การเลื่อนอายุเกษียณเพื่อชะลอการขาดแคลนแรงงาน ตลอดจนการเตรียมความพร้อมในการดูแลตนเองหรือช่วยดูแลในยามสูงอายุผ่านการออมเงิน
