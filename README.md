@@ -102,7 +102,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 ### 2.1 อายุขัยของแต่ละประเทศเฉลี่ยใน 5 ปี (2011-2015)
 ประเทศที่อายุขัยเฉลี่ยใน 5 ปี (2011-2015) สูงสุด 10 อันดับ ได้แก่ Japan, Switzerland, Spain, Iceland, Italy, France, Singapore, Australia, Sweden และ israel โดยอยู่ระหว่าง 81.96 - 83.28 ปี
 ส่วนประเทศที่อายุขัยเฉลี่ย ต่ำสุด 10 อันดับ ได้แก่ Lesotho, Central African Republic, Sierra Leone, Eswatini, Nigeria, Chad, Cote d’Ivorie, Mozambique, Somalia, Guinea-Bissau โดยอยู่ระหว่าง 48.64 - 56.08 ปี
-ขณะที่อายุขัยเฉลี่ยของประชากรทั้งโลกเท่ากับ 70.9 ปี และประเทศไทยออยู่อันดับที่ 76 อายุขัยเฉลี่ยประมาณ 75.36 ปี 
+ขณะที่อายุขัยเฉลี่ยของประชากรทั้งโลกเท่ากับ 70.9 ปี และประเทศไทยออยู่อันดับที่ 58 อายุขัยเฉลี่ยประมาณ 75.36 ปี 
 
 **กราฟที่ 7 :** Average Life Expectation by Countries (2011-2015)
 ![image](https://github.com/user-attachments/assets/3560b13c-d48a-49d7-b70c-4b6d069e0c19)
