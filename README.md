@@ -196,9 +196,9 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 
 
 **กราฟ 17 :** โครงสร้างประชากร
-![image](https://github.com/user-attachments/assets/3abbf2d5-9a96-4e6e-b67e-384993eaffbb)
+![image](https://github.com/user-attachments/assets/dec65cf1-bd6b-42de-8040-183eff99c52b)
 
-![image](https://github.com/user-attachments/assets/d23242c8-e973-4c22-8a94-6c7be452fc9c)
+![image](https://github.com/user-attachments/assets/4004fd59-fbfe-478d-92d3-2f1ffc4db01a)
 
 
 ### 6.3 งบประมาณ
@@ -210,7 +210,8 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 
 **กราฟ 18 :** งบประมาณเปรียบเทียบ
 
-![image](https://github.com/user-attachments/assets/dec65cf1-bd6b-42de-8040-183eff99c52b)
+![image](https://github.com/user-attachments/assets/ca54c03c-383e-498e-a884-fb7123803ef8)
+
 
 
 จากกราฟที่ 19 พบว่า งบประมาณด้านเศรษฐกิจ ไม่ค่อยสัมพันธ์กันกับ GPD เห็นได้จาก ในปี 2016 ที่ใช้งบประมาณด้านเศรษฐกิจน้อยทุกปี แต่มี GPD ที่สูงกว่าปี 2019 เป็นต้นไปที่ใช้งบประมาณมากกว่า เป็นไปได้ว่างบประมาณที่ลงไปอาจจะไม่ทำให้เกิดการเติบโตทางเศรษฐกิจ หรือมีปัจจัยอื่นมากระทบ เช่น ปี 2020 แม้จะมีจัดสรรงบประมาณไปค่อนข้างเยอะ แต่พบว่า GDP ติดลบเนื่องจากภาวะโรคระบาด
@@ -219,7 +220,8 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 
 **กราฟ 19 :** งบประมาณกับ GDP
 
-![image](https://github.com/user-attachments/assets/4004fd59-fbfe-478d-92d3-2f1ffc4db01a)
+![image](https://github.com/user-attachments/assets/21803a3f-45a8-4ee9-8036-59ea169c11e2)
+
 
 
 
