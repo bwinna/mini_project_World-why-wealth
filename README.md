@@ -114,7 +114,7 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 
 **กราฟที่ 7 :** Average Life Expectation by Countries (2011-2015)
 ![image](https://github.com/user-attachments/assets/3560b13c-d48a-49d7-b70c-4b6d069e0c19)
-
+[Click to view full image](https://github.com/user-attachments/assets/3560b13c-d48a-49d7-b70c-4b6d069e0c19)
 
 ### 2.2 ปัจจัยที่ส่งผลต่อประมาณการอายุขัยเฉลี่ย
 ปัจจัยที่สัมพันธ์กับอายุขัยมากที่สุด คือ ระยะเวลาการศึกษา (Schooling) ปัจจัยด้านสุขภาพได้แก่การครอบคลุมการได้รับวัคซีนป้องกันโรค เช่น Polio หรือ Diphtheria tetanus toxoid เป็น และปัจจัยทางเศรษฐกิจ (GDP) ในขณะที่อัตราการตายตั้งแต่ช่วงทารก การตายในเด็กไม่เกิน 5 ขวบ และการตายในวัยผู้ใหญ่มีผลทำให้อายุขัยลดลง นอกจากนี้พบว่า จำนวนประชากร ไม่ได้สัมพันธ์กันกับอายุขัย
