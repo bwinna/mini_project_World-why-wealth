@@ -196,6 +196,8 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 
 
 **กราฟ 17 :** โครงสร้างประชากร
+
+
 ![image](https://github.com/user-attachments/assets/9819cb2f-fe79-471d-8444-399d75238289)
 
 
