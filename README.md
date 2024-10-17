@@ -201,7 +201,9 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 **กราฟ 18 :** งบประมาณเปรียบเทียบ
 ![image](https://github.com/user-attachments/assets/5e8c17a9-d1ea-4230-a339-c565c3f12418)
 
+
 **กราฟ 19 :** งบประมาณกับ GDP
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/513ecc6e-33ab-4344-85f8-28f33353eba0">
 
 
