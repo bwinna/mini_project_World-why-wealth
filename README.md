@@ -217,7 +217,10 @@ https://www.nesdc.go.th/main.php?filename=qgdp_page
 
 **กราฟ 19 :** งบประมาณกับ GDP
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/513ecc6e-33ab-4344-85f8-28f33353eba0">
+![image](https://github.com/user-attachments/assets/4004fd59-fbfe-478d-92d3-2f1ffc4db01a)
+
+
+
 
 
 ## 6.4 บทสรุป
